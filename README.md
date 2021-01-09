@@ -1,2 +1,2 @@
-# Deezer_bot
+# Deezer_bot 😎
 https://tele.gg/DeezerMusicBot
